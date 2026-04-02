@@ -1,0 +1,10 @@
+.projects-page {
+    padding: 100px 8% 80px;
+    min-height: 100vh;
+}
+
+@media (max-width: 640px) {
+    .projects-page {
+        padding: 80px 14px 48px;
+    }
+}
