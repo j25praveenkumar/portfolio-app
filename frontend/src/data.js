@@ -1,5 +1,5 @@
 // SHA-256 hash of the admin password — never store plain text here
-export const ADMIN_PASSWORD_HASH = "a41b34442071f446ddfdd9fdca7e5cd3856b0f2de9a091ac26f120c44fdb9b57";
+export const ADMIN_PASSWORD_HASH = "3ab5384b3fb327955c7b1fbe7fc2c60da70a5c2de55c78baed987497cb10d3c6";
 
 export const intro = {
     para1: "I am a dedicated Full Stack Developer with practical experience in designing, developing, and maintaining web applications. I specialize in backend development using Java and Spring Boot, along with frontend development using React.",
